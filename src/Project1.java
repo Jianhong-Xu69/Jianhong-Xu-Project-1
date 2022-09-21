@@ -33,3 +33,7 @@ public class Project1 {
         System.out.println("Your individual tip is $" + tipEachString + " each");
     }
 }
+//small note to myself after I closed by file:
+//NumberFormat formatter = new DecimalFormat("#0.00");     
+//System.out.println(formatter.format(4.0));
+//Attempt this later at home
